@@ -1,0 +1,35 @@
+{
+  "name": "backend-faballey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumyasootar/Backend-Faballey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumyasootar/Backend-Faballey/issues"
+  },
+  "homepage": "https://github.com/soumyasootar/Backend-Faballey#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "cowsay": "^1.5.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "figlet": "^1.6.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.1",
+    "nodemailer": "^6.9.2",
+    "nodemon": "^2.0.22"
+  }
+}
